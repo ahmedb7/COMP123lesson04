@@ -8,6 +8,10 @@ namespace COMP123_Lessoon04
 {
     class GitHubClass
     {
-        //github tes
+        //github test
+        public static GitHubClass()
+        {
+            Console.WriteLine("Hello Github");
+        }
     }
 }
